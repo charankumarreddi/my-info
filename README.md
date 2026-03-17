@@ -132,4 +132,4 @@ KSRM College of Engineering
 
 ---
 
-⭐ Always exploring new DevOps tools and building automated infrastructure.
+⭐ Always exploring new DevOps tools and building automated infrastructure .
